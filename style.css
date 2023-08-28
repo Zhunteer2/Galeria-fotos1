@@ -1,0 +1,24 @@
+body {
+    background-image: url("wallpaper.jpg");
+}
+
+img {
+   
+    
+   
+    
+    
+   
+
+}
+
+h1 {
+    font-family: 'Stencil Std', 'fantasy';
+    color: white;
+    padding: 50px;
+    margin: 30px;
+    justify-content: center;
+    display: flex;
+    font-size: 3rem;
+}
+
